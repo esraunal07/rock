@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "date": "2024-02-01",
+      "time": "19:00",
+      "price": 100,
+      "scene": "Rökrock",
+      "description": "Lorem ipsum",
+      "bookings": [
+        {
+          "name": "kubra"
+        }
+      ]
+    }
+  ]
+}
